@@ -18,6 +18,9 @@
 
 - Feedback
   - Cycles modify behaviour 
+  - Feedback from the code: how have your changes affected the overall system for good or bad.
+  - Feedback from the team: concrete feedback in the form of acceptance tests or scripts test overall system. How close are we to done?
+  - Feedback from the customer: what to work on next, based on current state of system.
   
 
 - Individual Programming
@@ -41,6 +44,17 @@
   - Differencing
   - Old school - last final (2).zip
 
+- Simple Design
+  - Passes all tests
+  - Simplest it can be
+  - Uses fewest parts
+  - Reveals intent.
+  
+- SOLID is a scam
+  - Single responsibility
+  - Err...
+  - Do one thing ...
+  
 - Pair programming
   - Continuous Code Review
 
