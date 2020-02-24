@@ -37,6 +37,8 @@
 
 - Automated Tests
 
+- Refactor
+  - 
 - Source Control
   - Choice doesn't matter
   - History
@@ -69,6 +71,9 @@
   - Perfection Game
     - Would you be willing to hear some feedback?
     - How could you improve on this?
+    - Here's 5 things 
+    - I would score this 5 / 10 because I could improve 5 things
+    
 
 - Takeaways
   - Communication is hard
