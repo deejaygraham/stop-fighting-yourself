@@ -4,7 +4,7 @@
 
 - Opener
   - Thank you for being here
-  - Who I am - Sage, career
+  - Who I am - Sage, career - motion control systems, stock control barcoding
   - Questions at any time
   - Who writes code?
 
@@ -59,62 +59,95 @@
   - DevOps
   - Observability 
 
-- Hillboro Illinois
+- Rogers AR
   - Early in my career, from 25 + 
   - Delta wrapping lots of intensive maths for movement
   - Mentor (Richard Calvin)
-  - Self taught, ignorant of most deve
-- Rubber Ducking
-
-- Code Reviews
-  - Prepare for code review - too much in your own head
-  - Write unit tests
-    - tests code from multiple angles
-    - who writes code, fiddles to get it to work (and doesn't know why)
-    - scared to touch it again in case it breaks ?
-    - feedback for changes, regressions, improvements
-  - You are not your code
+  - Self taught, ignorant of most development practices, not really written anything very exciting or important.
+  - I invented Pair Programming and Code Reviews
   
-  - Perfection game
-  
-- Pairing
-
-- Strong Pairing
-
-
-- Simple Design
-  - Passes all tests
-  - Simplest it can be
-  - Uses fewest parts
-  - Reveals intent.
-  
-- SOLID is a scam
-  - Single responsibility
-  - Err...
-  - Do one thing ...
+- Hillboro Illinois
+  - Working on stuff that didn't really matter
+  - Middle of Illinois
+  - Glass factory, hot and dirty in a tiny out building away from the main factory
+  - Writing C code
+  - Hot Glass
+  - Super dangerous and makes a mess when things go wrong
+  - Putting in new M200 system
+  - Building on own machine, push out code changes
+  - See what happens!
+  - Long trek to go in and see if you are even more unpopular
+  - Not paying close enough attention especially first thing on a morning.
+  - Big piles of glass is not the best when someone else has to 
+    clean up moulds 5 and 6 times a day.
+  - Needed to make changes
   
 - Pair programming
+  - Every change was worked on by two people. Usually one person typing but two chipping in ideas 
+  - Each person watching for failures, mistakes etc.
   - Continuous Code Review
-
-- Continuous Deployment & Integration 
-  - Dev Ops
-  - Monitoring and Observability
-  - Testing in Production
-  - User testing
+  
+- Code Reviews
+  - I suggested going through code with someone else to get a sense of what it was doing was sensible.
+  - Not all situations are like this but since then I have found it useful to apply to every other job.
+  - May not be a pile of glass but if your code is valuable enough for someone to use, it's valuable enough 
+    for them to be upset when it stops working. 
 
 - How to Code Review
-  - Code review 
+  - Code review - Writer
+    - Walk through code (rubber duck it)
+    - Run the code (does it compile), does it work?
+    - Can you understand it?
+    - What would cause it to change?
+    - What would cause it to break?
+    - Are names as good as they can be?
+    - Write unit tests
+      - tests code from multiple angles
+      - who writes code, fiddles to get it to work (and doesn't know why)
+      - scared to touch it again in case it breaks ?
+      - feedback for changes, regressions, improvements
+    - Easy to run tests to demonstrate behaviour.
+    - What other documentation do you need?
+    - You are not your code
+    - SOLID is a scam
+      - Single responsibility
+      - Err...
+      - Do one thing ...
+      Pay attention to demeter
+      coherence 
+      coupling
+      
+    - Simple Design
+      - Passes all tests
+      - Simplest it can be
+      - Uses fewest parts
+      - Reveals intent.
+    
+  - Reviewer
+    - Be tactful
+    - Use Socratic method
+    - Ask questions rather than statements
+    - Not (Why is this so awful)
+    - Consider perfection game?
+
   - Perfection Game
     - Would you be willing to hear some feedback?
     - How could you improve on this?
     - Here's 5 things 
     - I would score this 5 / 10 because I could improve 5 things
-    
-
-- Takeaways
-  - Communication is hard
-  - Culture change is hard
-  - Do strong style pairing !!!
+  
+- Pairing
+  - One person has an idea, takes keyboard and talks about the idea as they are typing it out. 
+  Think about syntax and expressing the idea.
+  - Other person thinks about next things coming up, next problem, next test ...
+  - Swap over regularly
+  
+- Strong Pairing
+  - Rubber Ducking
+  - Increase quality by making your thinking explicit
+  - Pair is now a transcriber
+  - Swap
+  - From I have an idea give me the keyboard to I have an idea, please take the keyboard
 
 - Questions
 
