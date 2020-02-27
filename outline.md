@@ -4,10 +4,35 @@
 
 - Opener
   - Thank you for being here
-  - Who I am
+  - Who I am - Sage, career
   - Questions at any time
   - Who writes code?
 
+- 4 hard problems in Computer Science
+  - naming things
+  - cache invalidation
+  - off-by-one errors
+  
+- Actually 4th Thing 
+  - Collaboration
+  - Myth of lone genius
+  - Truth software development is team sport
+  - Too much for one person to do
+  - Not healthy way to work
+  - Heroism
+  - Stress
+  
+- Styles of Working
+  - Individual
+  - Pair
+  - Strong Pair
+  - Swarm
+  - Mobbing
+  
+  "If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce
+  the bugs to start with." - Edsger Dijkstra
+  
+  
 - Communication
   - With Yourself
   - Always wanted to travel back in time to fight a younger version of yourself? Software development is the career for you! @Loh
@@ -15,6 +40,8 @@
   - With computer
   - With Team mates 
   - With the customer
+  - Communcation helps us build better software
+  - Helps us understand
 
 - Feedback
   - Cycles modify behaviour 
