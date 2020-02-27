@@ -35,6 +35,8 @@
 - Really this is all about Communication and Feedback
    
 - Communication
+  - Why do we write code?
+  - To Communicate!
   - With Yourself (CP story)
   - Always wanted to travel back in time to fight a younger version of yourself? Software development is the career for you! @Loh
   - With your future self (or an unknown team mate)
