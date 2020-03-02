@@ -123,6 +123,12 @@
       - Uses fewest parts
       - Reveals intent.
     
+    - Write it like prose
+      - whitespace
+      - understandable
+      - tells a story
+      - flow
+      - naming
   - Reviewer
     - Be tactful
     - Use Socratic method
