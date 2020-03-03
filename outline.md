@@ -122,8 +122,22 @@
       - Simplest it can be
       - Uses fewest parts
       - Reveals intent.
-    
+    - Sandi Metz Rules (made up)
+      - 100 line classes
+      - 5 line methods
+      - 4 method args
+      
+    - Build a checklist 
+      - Add to it over time
+      - Has tests
+      - Passes tests
+      - No bad names
+      
     - Write it like prose
+     - descriptive names (characters in your story) do they do what you have said they do. Don't be afraid to iterate
+     a bad name may get you further in another part that then makes the original clearer.
+     - Write short methods not long involved ones. Easier to reason about and ensure are working. Helps with naming in 1.
+     - Use space to group related things together and distance between unrelated things. Don't put two classes in the same file.
       - whitespace
       - understandable
       - tells a story
